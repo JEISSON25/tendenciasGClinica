@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #9FC2AE
+  }
+
+  .patients-table .table {
+    font-size: 0.8rem; /* Tamaño de letra más pequeño */
+   
+}
+
